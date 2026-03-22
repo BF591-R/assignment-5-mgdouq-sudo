@@ -1,6 +1,7 @@
 library('tidyverse')
 library('SummarizedExperiment')
 library('DESeq2')
+library('biomaRt')
 library('testthat')
 library('fgsea')
 
